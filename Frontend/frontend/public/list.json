@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipsicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "../../public/card.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Music Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipsicing elit.",
+        "price": 100,
+        "category": "Song",
+        "image": "../../public/card.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipsicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "../../public/card.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipsicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "../../public/card.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Food Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipsicing elit.",
+        "price": 200,
+        "category": "Food",
+        "image": "../../public/card.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipsicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "../../public/card.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Comedy Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipsicing elit.",
+        "price": 20,
+        "category": "Entainment",
+        "image": "../../public/card.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipsicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "../../public/card.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Sport Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipsicing elit.",
+        "price": 50,
+        "category": "Sports",
+        "image": "../../public/card.jpg"
+    }
+]
